@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EsquerdaVolver.ConsoleApp", "ProvaPresencial1.ConsoleApp\EsquerdaVolver.ConsoleApp.csproj", "{D6CC24D8-1C3A-4C04-A9D0-24B802D3DDEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6CC24D8-1C3A-4C04-A9D0-24B802D3DDEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6CC24D8-1C3A-4C04-A9D0-24B802D3DDEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6CC24D8-1C3A-4C04-A9D0-24B802D3DDEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6CC24D8-1C3A-4C04-A9D0-24B802D3DDEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B29B436-778E-4E54-84E0-D3F5069C7546}
+	EndGlobalSection
+EndGlobal
